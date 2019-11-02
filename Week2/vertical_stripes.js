@@ -13,4 +13,4 @@ for (var pixel of img.values()) {
         pixel.setGreen(255); 
     }
 }
-print(img) 
+print(img);
