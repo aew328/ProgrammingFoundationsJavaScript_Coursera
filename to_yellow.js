@@ -6,4 +6,4 @@ for (var pixel in img.values()) {
     pixel.setRed(newR);
     pixel.setGreen(newG);
 }
-print(img)
+print(img);
